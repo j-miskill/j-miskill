@@ -34,6 +34,8 @@
 
 💻 Journal Prompt Emailer (link soon)
 
+💻 [CS 3250 Showcase](https://github.com/j-miskill/showcase)
+
 
 ### Past Projects
 
