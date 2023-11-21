@@ -1,12 +1,22 @@
-### Hi there 👋
+Hi, I'm Jackson👋
+Who I Am
+🔑 Computer Science Undergraduate at UVA
 
+🔑 Recently admitted to the UVA master's of computer science program
 
-### 🔭 I’m currently working on ...
+🔑 Looking for software engineering internship roles.
 
+🔑
 
-### 🌱 I’m currently learning ...
+My Interests
+📍 Cyber-physical (IOT) systems
 
+📍 Artificial Intelligence
 
-### 📫 How to reach me: ...
+📍 Computer science for the public good
+
+📍 Startup companies
+
+Current Progress
 
 
