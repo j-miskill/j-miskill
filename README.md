@@ -4,7 +4,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jackson-miskill-291578213/)
 
-🔗 [Portfolio](https://j-miskill.github.io)
+🔗 [Personal Website](https://j-miskill.github.io)
 
 🔗 [Writing (link soon)]()
 
