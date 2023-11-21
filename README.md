@@ -1,5 +1,6 @@
-Hi, I'm Jackson👋
-Who I Am
+## Hi, I'm Jackson👋
+
+### Who I Am
 🔑 Computer Science Undergraduate at UVA
 
 🔑 Recently admitted to the UVA master's of computer science program
@@ -8,7 +9,7 @@ Who I Am
 
 🔑
 
-My Interests
+### My Interests
 📍 Cyber-physical (IOT) systems
 
 📍 Artificial Intelligence
@@ -17,6 +18,10 @@ My Interests
 
 📍 Startup companies
 
-Current Progress
+### Current Projects
+
+
+### Current Classes
+
 
 
