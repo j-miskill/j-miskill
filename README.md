@@ -6,7 +6,6 @@
 
 🔗 [Personal Website](https://j-miskill.github.io)
 
-🔗 [Writing (link soon)]()
 
 
 ### Who I Am
