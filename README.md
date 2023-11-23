@@ -35,7 +35,7 @@
 
 💻 [CS 3250 Showcase](https://github.com/j-miskill/showcase)
 
-💻 [Musical Key Generation]()
+💻 [Musical Key Generation](https://github.com/j-miskill/keys)
 
 
 ### Past Projects
