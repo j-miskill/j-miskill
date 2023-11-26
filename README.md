@@ -13,7 +13,7 @@
 
 🔑 Recently admitted to the UVA master's of computer science program
 
-🔑 Looking for software engineering internship roles.
+🔑 Looking for software engineering internship roles either in the Hampton Roads area, Charleston South Carolina area, or remote!
 
 
 ### My Interests
