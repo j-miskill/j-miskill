@@ -13,13 +13,16 @@
 
 🔑 Recently admitted to the UVA master's of computer science program
 
+🔑 Looking to become involved in Computational Epidemiology research 
+
 🔑 Looking for software engineering internship roles either in the Hampton Roads area, Charleston South Carolina area, or remote!
 
 
-### My Interests
-📍 Cyber-physical (IOT) systems
 
-📍 Artificial Intelligence
+
+### My Interests
+
+📍 Artificial Intelligence and Machine Learning
 
 📍 Computer science for the public good
 
